@@ -3,7 +3,7 @@ this is web base d project which provide user to access orders through scanning 
 to run this project
 
 create inv-project named db
-import database from db folder
+import database from database folder
 
 default logins are 
 
